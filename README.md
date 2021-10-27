@@ -1,2 +1,2 @@
 # export-mysql-users
-Script for exporting the user lis and privileges in MySQL
+Script for exporting the user list and privileges in MySQL
